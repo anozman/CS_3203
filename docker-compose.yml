@@ -1,0 +1,11 @@
+version: '3'
+services:
+  web:
+    image: assn3
+    build: ./Assignment_1
+    command: node express.js
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./Assignment_1:/usr/src/app
+      - /user/src/app/node_modules
