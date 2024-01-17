@@ -8,6 +8,8 @@ Note: Not all of the code in this repository may be refined, which will hopefull
 
 In this assignment, we were instructed to create a REST API using Node.js. Using a JSON file as the data to manipulate, we created GET, POST, PUT, DELETE commands. Front end created to interact with the API using basiic forms provided by HTML5
 
+SEE CS_ASSIGNMENT2 for a more detailed README file
+
 ## Project Playbook
 
 This was the course project that was designed by myself and a partner. This code is itentical to the original repo, found here:
